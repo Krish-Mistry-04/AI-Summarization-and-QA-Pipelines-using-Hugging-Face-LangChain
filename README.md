@@ -11,11 +11,11 @@ This project demonstrates the use of Hugging Face Transformers integrated with L
 ## 📁 Project Structure
 
 
-├── main.py # Basic summarization with Hugging Face pipeline
+├── summarization.py # Basic summarization with Hugging Face pipeline
 
-├── main2.py # Topic-based generation using LangChain & Mistral
+├── text_generation.py # Topic-based generation using LangChain & Mistral
 
-├── main3.py # Combined summarization + refinement + QA system
+├── qa.py # Combined summarization + refinement + QA system
 
 ## 🚀 Requirements
 
